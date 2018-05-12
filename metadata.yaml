@@ -18,6 +18,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
 description: "John Gabriel Borkman is the second-to-last play of the Norwegian playwright\
   \ Henrik Ibsen, written in 1896.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20178#John-Gabriel-Borkman
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2006-12-23'
 gutenberg_type: Text
